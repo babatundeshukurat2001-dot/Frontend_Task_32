@@ -1,0 +1,102 @@
+@import url('https://fonts.goggleapies.com/css2?family=Young-serif+8&display=swap');
+
+@import url('https://fonts.goggleapies.com/css2?family=Young-serif+8&display=swap');
+
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+
+body{
+    background: color #f3e6d8ff;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+}
+
+.wrapper{
+    background-color:#fff;
+    width:50%;
+    padding:30px;
+}
+
+.content img{
+    border-radius:20px;
+    width:100%;
+    object-fit:cover;
+}
+
+.header-content{
+    margin:30px 10px;
+}
+
+.header-content h1{
+    font-family: 'Young-serif 8', sans-serif;
+    font-size:50px;
+} 
+
+.header-description{
+    font-family: 'Young-serif 8', sans-serif;
+    font-weight:300px;
+    font-size:20px;
+}
+
+.preparation-time{
+    background-color:hsl(31, 53%, 90%);
+    padding:20px;
+    border-radius:10px;
+}
+
+.preparation-time h3{
+    font-family: 'outfit', serif;
+    font-size:20px;
+    font-weight:700;
+   color:rgb(117, 78, 36);
+}
+
+ .preparation-time span.total{
+    font-size:15px;
+    font-weight:  600;
+    color:black;
+   
+}
+
+ .preparation-time span.preparation{
+    font-size:15px;
+    font-weight:  600;
+    color:black;
+   
+}
+
+.preparation-time span.cooking{
+    font-size:15px;
+    font-weight:  600;
+    color:black;
+   
+}
+
+.ingredients h2{
+    font-family: 'outfit', serif;
+    font-size:20px;
+    font-weight:700;
+   color:rgb(117, 78, 36);
+
+}
+
+.instructions h2{
+    font-family: 'outfit', serif;
+    font-size:20px;
+    font-weight:700;
+   color:rgb(117, 78, 36);
+}
+
+
+
+
+
+
+  
